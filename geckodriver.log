@@ -1,0 +1,12 @@
+1640200945014	geckodriver	INFO	Listening on 127.0.0.1:65005
+1640200948403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "65006" "-no-remote" "-profile" "C:\\Users\\tusha\\AppData\\Local\\Temp\\rust_mozprofilehhiRCk"
+1640200949088	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\tusha\\AppData\\Local\\Temp\\rust_mozprofilehhiRCk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65006/devtools/browser/fa34a574-d601-4770-8478-e70bcdf54665
+1640200951834	Marionette	INFO	Listening on port 65014
+1640200952101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640200972861	Marionette	INFO	Stopped listening on port 65014
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
